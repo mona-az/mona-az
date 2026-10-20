@@ -1,75 +1,74 @@
 Hi, I'm Mona 👋
 
-I'm an AI Engineer and Data Scientist with a background in Statistics and Data Science.
+AI Engineer | Data Science | Machine Learning | Generative AI
 
-I work on developing data-driven and AI-based solutions, with experience in Machine Learning, Deep Learning, Computer Vision, Generative AI, and Data Analytics.
+I'm an AI Engineer with a background in Data Science and Statistics, working on intelligent systems, data-driven solutions, and practical AI applications.
 
-I'm particularly interested in building practical AI systems and turning data and machine learning models into usable applications.
+My interests and experience span Machine Learning, Deep Learning, Computer Vision, Generative AI, AI Agents, and Data Analytics. I enjoy turning complex problems into practical solutions through data analysis, model development, and software engineering.
 
-Skills
+🛠️ Tech Stack
 
-- Programming: Python, R
-- Data Analysis: Pandas, NumPy, statistical analysis, data preprocessing and cleaning
-- Machine Learning: Scikit-learn, machine learning algorithms, data mining and predictive modeling
-- Deep Learning: Neural networks and deep learning applications
-- Computer Vision: Face detection, face recognition and facial analysis
-- Generative AI: LLMs, RAG, AI Agents and intelligent assistants
-- AI Integration: MCP Server and connecting AI models to databases and external services
-- Backend Development: FastAPI and development of APIs for AI and data-processing applications
-- Data Visualization: Power BI, Tableau, Matplotlib and Seaborn
-- Database: MariaDB and working with data-driven applications
-- Tools: Git, GitHub and Jupyter Notebook
+Programming & Data Science
 
-Experience
+"Python" · "R" · "NumPy" · "Pandas" · "Scikit-learn" · "Matplotlib" · "Seaborn"
 
-Currently, I work as an AI Engineer, where I work with real-world data and develop AI-based solutions.
+Machine Learning & Computer Vision
 
-My work includes:
+"Machine Learning" · "Deep Learning" · "CNNs" · "YOLO" · "FaceNet" · "MTCNN" · "OpenCV"
 
-- Data analysis, preprocessing and extracting insights from real-world data
-- Developing Machine Learning, Deep Learning and Computer Vision solutions
-- Building face recognition systems using YOLO, FaceNet and MTCNN
-- Developing intelligent chatbots and RAG-based systems
-- Designing and developing AI Agents and LLM-based workflows
-- Implementing MCP Servers to connect AI models with databases and organizational services
-- Developing APIs for AI and data-processing applications using Python and FastAPI
-- Building analytical dashboards and reports using Power BI
-- Developing statistical systems for trend and change detection using methods such as EWMA, CUSUM and Mann-Kendall
+Generative AI & Intelligent Systems
 
-Projects
+"LLMs" · "RAG" · "AI Agents" · "MCP Servers" · "Intelligent Chatbots"
 
-Some of the projects I have worked on include:
+Backend & Data
 
-- Face Recognition System
-  A computer vision system for face detection and recognition using YOLO, FaceNet and MTCNN, with face embeddings and database integration.
+"FastAPI" · "REST APIs" · "MariaDB" · "Data Processing" · "Statistical Analysis"
 
-- Trend Detection System
-  A system for analyzing trends and detecting changes in data using statistical methods such as EWMA, CUSUM and Mann-Kendall.
+Data Visualization & Tools
 
-- Emotion and Attention Analysis
-  A computer vision and deep learning system for facial emotion recognition and estimating attention based on facial features, head pose, eye state and gaze.
+"Power BI" · "Tableau" · "Jupyter Notebook" · "Google Colab" · "Git" · "GitHub"
 
-- AI Agents and Intelligent Assistants
-  Development of AI-based assistants using LLMs, RAG and MCP to connect language models with data sources and external services.
+🚀 Areas of Work
 
-Interests
+- AI Engineering: Developing practical AI-powered applications and intelligent workflows.
+- Machine Learning & Deep Learning: Building predictive models and data-driven solutions.
+- Computer Vision: Face detection, facial feature embeddings, face matching, and facial expression analysis.
+- Generative AI: Developing intelligent assistants and RAG-based applications using large language models.
+- AI Agents & MCP: Connecting AI models to databases, external services, and business tools.
+- Backend Development: Building APIs for AI models and data-processing systems using Python and FastAPI.
+- Data Science & Analytics: Data cleaning, statistical analysis, trend detection, visualization, and reporting.
+- Business Intelligence: Designing interactive dashboards and analytical reports with Power BI and Tableau.
 
-My main areas of interest are:
+🧩 Selected Projects
 
-- Artificial Intelligence
-- Machine Learning & Deep Learning
-- Generative AI
-- AI Agents & LLMs
-- RAG
-- Computer Vision
-- Data Science & Data Analytics
-- Data Engineering
-- AI Research & Development
+- Face Recognition & Matching System — Face detection, embedding extraction, identity matching, and database integration.
+- Facial Emotion & Attention Analysis — Facial expression classification and attention estimation using computer vision.
+- Intelligent Assistants & RAG Systems — AI-powered assistants with retrieval-augmented generation and external data integration.
+- AI Agents & MCP Integration — Connecting language models to databases and external services through intelligent workflows.
+- Trend Analysis & Change Detection — Statistical trend analysis and change detection using EWMA, CUSUM, and Mann–Kendall methods.
+- Data Analytics Dashboards — Interactive dashboards for monitoring key metrics, identifying trends, and supporting data-driven decisions.
 
-I'm always interested in learning new technologies, working on challenging problems, and building practical AI solutions.
+📊 Background
 
-Contact
+- Master's degree in Data Science
+- Bachelor's degree in Statistics
+- Professional experience in AI engineering and data-driven application development
+- Strong interest in research, continuous learning, and building practical AI solutions
 
-- GitHub: "mona-az" (https://github.com/mona-az)
-- LinkedIn: "Mona Ajabi Zareian" (https://www.linkedin.com/in/mona-ajabi-zareian-7074b4349/)
-- Email: monazareian@gmail.com
+🌱 Currently Interested In
+
+- Building reliable AI agents and LLM-powered applications
+- Advancing computer vision and deep learning solutions
+- Improving RAG pipelines and AI system integration
+- Developing scalable AI services and data-processing APIs
+
+🤝 Let's Connect
+
+- GitHub: "@mona-az" (https://github.com/mona-az)
+- LinkedIn: "Connect with me" (https://www.linkedin.com/in/mona-ajabi-zareian-7074b4349)
+
+I'm always interested in exchanging ideas, exploring new technologies, and collaborating on meaningful projects in AI and Data Science.
+
+---
+
+Building intelligent systems. Turning data into decisions. ✨

@@ -71,5 +71,5 @@ I'm always interested in learning new technologies, working on challenging probl
 Contact
 
 - GitHub: "mona-az" (https://github.com/mona-az)
-- LinkedIn: "Mena Zareian" (https://www.linkedin.com/in/mona-ajabi-zareian-7074b4349/)
+- LinkedIn: "Mona Ajabi Zareian" (https://www.linkedin.com/in/mona-ajabi-zareian-7074b4349/)
 - Email: monazareian@gmail.com
